@@ -39,10 +39,9 @@ I'm a Computer Science student with a passion for creating efficient, user frien
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/ dananjaya2002">
-  [<img height="180em" src="https://github-readme-stats.vercel.app/api?username= dananjaya2002&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username= dananjaya2002&layout=compact&langs_count=7&theme=react"/>](https://www.linkedin.com/in/kavishan-dananjaya-a2b31126b)
-</a>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dananjaya2002&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dananjaya2002&layout=compact&theme=radical)
 
 ## 📚 Education
 
