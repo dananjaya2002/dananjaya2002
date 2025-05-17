@@ -1,7 +1,6 @@
 # Hello, I'm Danidu Kavishan 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/kavishan-dananjaya-a2b31126b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavishandananjaya2002@gmail.com)
+
 
 ## About Me
 
@@ -41,8 +40,8 @@ I'm a Computer Science student with a passion for creating efficient, user frien
 ## 📊 GitHub Stats
 
 <a href="https://github.com/ dananjaya2002">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username= dananjaya2002&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username= dananjaya2002&layout=compact&langs_count=7&theme=react"/>
+  [<img height="180em" src="https://github-readme-stats.vercel.app/api?username= dananjaya2002&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username= dananjaya2002&layout=compact&langs_count=7&theme=react"/>](https://www.linkedin.com/in/kavishan-dananjaya-a2b31126b)
 </a>
 
 ## 📚 Education
@@ -51,6 +50,9 @@ I'm a Computer Science student with a passion for creating efficient, user frien
   NSBM Green University, Expected Graduation: 2026
 
 ## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/kavishan-dananjaya-a2b31126b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavishandananjaya2002@gmail.com)
 
 Feel free to reach out through any of the platforms linked above!
 
