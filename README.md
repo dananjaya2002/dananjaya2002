@@ -37,12 +37,6 @@ I'm a Computer Science student with a passion for creating efficient, user frien
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dananjaya2002&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dananjaya2002&layout=compact&theme=radical" height="170" />
-</div>
 
 ## 📚 Education
 
